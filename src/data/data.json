@@ -1,0 +1,127 @@
+{
+    "profiles": [
+        {
+            "basics": {
+                "name": "Praneeth Pentapati",
+                "role": "Student",
+                "email": "praneethpentapati@gmail.com",
+                "mobile": "9704920209",
+                "gender": "male",
+                "address": "Ramnagar Visakhapatnam Andhra Pradesh"
+            },
+            "summary": [
+                "Having great interpersonal skills and also good in communication",
+                "Have knowledge on c , c++ , python , Mysql , HTML5 , CSS3 , JS , Bootstrap , REACT",
+                "Strong in technical concepts and a rank holder",
+                "Have previous experience of event organization and ia m also part of many student clubs in GITAM",
+                "I am the current Technical Lead in IETE student chapter GITAM University",
+                "And also i am the current Vice President of BNB Ngo"
+            ],
+            "education": [
+                {
+                    "degree": "B-Tech (ECE)",
+                    "institute": "GITAM",
+                    "result": "9.04"
+                },
+                {
+                    "degree": "Intermediate",
+                    "institute": "Ascent Junior College",
+                    "result": "91.3"
+                },
+                {
+                    "degree": "10th",
+                    "institute": "Sri Chaitanya CBSE School",
+                    "result": "9.2"
+                }
+            ],
+            "skills": [
+                "programming",
+                "managerial",
+                "technical",
+                "Translator"
+            ],
+            "languages": [
+                "C",
+                "C++",
+                "Python",
+                "Mysql",
+                "HTML5",
+                "CSS3",
+                "REACT",
+                "Javascript"
+            ],
+            "clubs": [
+                "Bread And Butter For All - Vice President",
+                "IETE student chapter - Technical Lead",
+                "NSS - Program  Unit Head",
+                "GUSAC - member",
+                "GCIED - member",
+                "Rotaract club - member"
+            ]
+        },
+        {
+            "basics": {
+                "name": "Praneeth Pentapati",
+                "role": "Web Developer",
+                "email": "praneethpentapati@gmail.com",
+                "mobile": "9704920209",
+                "gender": "male",
+                "address": "Ramnagar Visakhapatnam Andhra Pradesh"
+            },
+            "summary": [
+                "Having great interpersonal skills and also good in communication",
+                "Have knowledge on c , c++ , python , Mysql , HTML5 , CSS3 , JS , Bootstrap , REACT",
+                "Strong in technical concepts and a rank holder",
+                "Have previous experience of event organization and ia m also part of many student clubs in GITAM",
+                "I am the current Technical Lead in IETE student chapter GITAM University",
+                "And also i am the current Vice President of BNB Ngo"
+            ],
+            "education": [
+                {
+                    "degree": "B-Tech (ECE)",
+                    "institute": "GITAM",
+                    "result": "9.04"
+                },
+                {
+                    "degree": "Inter",
+                    "institute": "Ascent Junior College",
+                    "result": "91.3"
+                },
+                {
+                    "degree": "10th",
+                    "institute": "Sri Chaitanya CBSE School",
+                    "result": "9.2"
+                }
+            ],
+            "skills":[
+                "programming",
+                "managerial",
+                "technical",
+                "Translator"
+                
+            ],
+
+            "languages":[
+                "C",
+                "C++",
+                "Python",
+                "Mysql",
+                "HTML5",
+                "CSS3",
+                "REACT",
+                "Javascript"
+                
+            ],
+            "clubs":[
+                "Bread And Butter For All - Vice President",
+                "IETE student chapter - Technical Lead",
+                "NSS - Program  Unit Head",
+                "GUSAC - member",
+                "GCIED - member",
+                "Rotaract club - member"
+                
+                
+            ]
+        }
+    ]
+}
